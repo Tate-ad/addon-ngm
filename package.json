@@ -1,0 +1,15 @@
+{
+  "name": "addon-ngm",
+  "version": "0.0.1",
+  "description": "Blue v ngm node.js addon using c++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.3.5",
+    "restify": "^4.1.1"
+  }
+}
